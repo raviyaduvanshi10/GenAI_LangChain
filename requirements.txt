@@ -2,3 +2,4 @@ setuptools==75.8.0
 wheel==0.45.1
 langchain
 ipykernel
+python-dotenv
